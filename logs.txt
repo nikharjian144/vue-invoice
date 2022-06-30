@@ -1,0 +1,5 @@
+https://vuejs.org/guide/components/registration.html#global-registration
+http://localhost:3000/invoices
+https://docs.craterapp.com/installation.html#manual-installation
+https://github.com/abi-collab/open-pos-inventory-laravelvue
+https://vuejsexamples.com/a-fully-functional-point-of-sale-pos-inventory-system-made-from-laravel-and-vue-js/
